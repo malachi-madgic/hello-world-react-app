@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "devCommand": "npm run start",
+  "installCommand": "npm install",
+  "env": {
+    "VERCEL_TEAM_ID": "<YOUR_VERCEL_TEAM_ID>",
+    "VERCEL_PROJECT_NAME": "<YOUR_VERCEL_PROJECT_NAME>"
+  }
+}
